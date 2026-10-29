@@ -282,3 +282,4 @@ https://drive.google.com/file/d/1n6-zK9nFxZzcFPs-jLZE7quDyQyVLd1j/view?usp=shari
 ## 🖼️ SPI Connection Image
 
 🔗[SPI Connection](https://github.com/Samridhhh/SPI-Communication#%EF%B8%8F-spi-connection-image)
+![SPI Connection]([images/spi_connection](https://github.com/Samridhhh/SPI-Communication#%EF%B8%8F-spi-connection-image.jpg)
