@@ -277,9 +277,10 @@ https://drive.google.com/file/d/1n6-zK9nFxZzcFPs-jLZE7quDyQyVLd1j/view?usp=shari
 
 ## 🔗 SPI Demo Video
 
-🎥 [Watch the SPI demo video](https://drive.google.com/file/u/1/d/1yjIir6gsTuhqtL_1SDm9XiHnAzJr-hor/view?usp=sharing)
+🎥 [Watch the SPI demo video](https://drive.google.com/file/d/1yjIir6gsTuhqtL_1SDm9XiHnAzJr-hor/view?usp=sharing)
+
+---
 
 ## 🖼️ SPI Connection Image
 
-🔗[SPI Connection](https://github.com/Samridhhh/SPI-Communication#%EF%B8%8F-spi-connection-image)
-![SPI Connection]([images/spi_connection](https://github.com/Samridhhh/SPI-Communication#%EF%B8%8F-spi-connection-image.jpg)
+![SPI Connection](https://drive.google.com/uc?export=view&id=1cGYmu_vXMZvDYsQC5_s-jvg4YXZChHHf)
